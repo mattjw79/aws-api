@@ -1,4 +1,4 @@
-module github.com/mattjw79/aws-api
+module git.whitney.home/mwhitney/go-test
 
 require (
 	github.com/aws/aws-sdk-go v1.19.24
